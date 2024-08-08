@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="4" failures="0" time="1.222" name="tt-demo/0-tfoutput-helloworld/test">
+		<properties>
+			<property name="go.version" value="go1.19.3"></property>
+		</properties>
+		<testcase classname="test" name="TestHelloCountry" time="0.430"></testcase>
+		<testcase classname="test" name="TestHelloPerson" time="0.320"></testcase>
+		<testcase classname="test" name="TestHelloPerson2" time="0.320"></testcase>
+		<testcase classname="test" name="TestTooLongErrorMessage" time="0.140"></testcase>
+	</testsuite>
+</testsuites>
